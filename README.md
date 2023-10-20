@@ -1,4 +1,4 @@
-# Desafio-Relat-rio-Criativo
+# Desafio-Relatório-Criativo
 Santander Bootcamp 2023 - Ciência de Dados com Python - Desafio Relatório Criativo Power BI
 
 Relatório desenvovido no Power BI, utilizando uma base de dados diferente da utilizada no modelo. Tratei os dados da tabela, removendo colunas e linhas em branco, por exemplo.
